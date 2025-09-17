@@ -33,8 +33,8 @@ This tool is intended for **educational and research purposes only**. It should 
 ### 2. Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your_username/your_repository.git](https://github.com/your_username/your_repository.git)
-    cd your_repository
+    git clone https://github.com/Shreyas1860/C2-Framework
+    cd C2-Framework
     ```
 2.  Install the required library:
     ```bash
